@@ -1,0 +1,7 @@
+# 若文件在根目录
+/apple-app-site-association
+  Content-Type: application/json
+
+# 若文件在 .well-known 目录
+/.well-known/apple-app-site-association
+  Content-Type: application/json
